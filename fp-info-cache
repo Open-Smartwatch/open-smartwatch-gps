@@ -1,4 +1,4 @@
-18800411627478025
+18778000598674586
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82093,7 +82093,7 @@ footprints
 
 
 0
-12
+5
 3
 footprints
 18650-pcb
@@ -82446,6 +82446,20 @@ WS2812B_data-bridgeable
 12
 4
 footprints
+aisler_15x12mm
+
+
+0
+0
+0
+footprints
+battery-smd-solder
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+footprints
 big-switch
 
 
@@ -82481,6 +82495,13 @@ inductor_smd_10.5x10.3x4.0
 2
 2
 footprints
+kicad_11x9mm
+
+
+0
+0
+0
+footprints
 lipo-charger-5v-with-protection-board
 
 
@@ -82501,6 +82522,13 @@ mcp73831
 0
 5
 5
+footprints
+mini_dcdc
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
 footprints
 p3dt_small
 
@@ -82663,132 +82691,6 @@ button_side_smd
 4
 2
 open-Smartwatch
-ttgo-32-micro
-
-
-0
-39
-39
-open-Smartwatch-internal
-2mm_hex
-
-
-0
-0
-0
-open-Smartwatch-internal
-Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering
-LGA-8, https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-18.pdf
-lga land grid array
-0
-8
-8
-open-Smartwatch-internal
-Conn_uSDcard
-
-
-0
-13
-9
-open-Smartwatch-internal
-GC9A01_IPS_display
-
-
-0
-12
-12
-open-Smartwatch-internal
-GC9A01_IPS_display_under
-
-
-0
-12
-12
-open-Smartwatch-internal
-LGA-12_2x2mm_P0.5mm
-LGA12
-lga land grid array
-0
-12
-12
-open-Smartwatch-internal
-L_Sumida-CDRH6D38
-
-
-0
-2
-2
-open-Smartwatch-internal
-MSOP-10_3x3mm_P0.5mm
-10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.5
-0
-10
-10
-open-Smartwatch-internal
-PinHeader_1x04_P2.54mm_test
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-open-Smartwatch-internal
-QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm
-QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-65
-49
-open-Smartwatch-internal
-Quectel_L96
-L96 is a single receiver module integrated with GPS, GLONASS, Galileo(RLM supported)and BeiDou systems.
-Quectel L96
-0
-31
-31
-open-Smartwatch-internal
-SOT-23-5
-5-pin SOT23 package
-SOT-23-5
-0
-5
-5
-open-Smartwatch-internal
-SW_SPDT_PCM12
-Ultraminiature Surface Mount Slide Switch
-
-0
-7
-3
-open-Smartwatch-internal
-TSSOP-8_4.4x3mm_P0.65mm
-TSSOP, 8 Pin (JEDEC MO-153 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-8
-8
-open-Smartwatch-internal
-U.FL_Molex_MCRF_73412-0110_Vertical
-Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)
-mcrf hirose ufl u.fl microcoaxial
-0
-4
-2
-open-Smartwatch-internal
-USBmicro-B
-
-
-0
-8
-5
-open-Smartwatch-internal
-button_side_smd
-
-
-0
-4
-2
-open-Smartwatch-internal
 ttgo-32-micro
 
 
