@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Open-Smartwatch-GPS"
-Date "2021-01-26"
-Rev "3.0"
+Date "2021-02-18"
+Rev "3.1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -2462,35 +2462,6 @@ Wire Wire Line
 	7600 2800 7600 2850
 Wire Wire Line
 	7600 2850 7400 2850
-$Comp
-L power:+3V3 #PWR0104
-U 1 1 608696F2
-P 5900 2650
-F 0 "#PWR0104" H 5900 2500 50  0001 C CNN
-F 1 "+3V3" H 5915 2823 50  0000 C CNN
-F 2 "" H 5900 2650 50  0001 C CNN
-F 3 "" H 5900 2650 50  0001 C CNN
-	1    5900 2650
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R_Small R26
-U 1 1 60869F0B
-P 6150 2650
-F 0 "R26" V 6075 2575 50  0000 L CNN
-F 1 "10k" V 6225 2550 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" H 6150 2650 50  0001 C CNN
-F 3 "~" H 6150 2650 50  0001 C CNN
-	1    6150 2650
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6250 2650 6350 2650
-Wire Wire Line
-	6350 2650 6350 2850
-Connection ~ 6350 2850
-Wire Wire Line
-	5900 2650 6050 2650
 Text Label 3850 5350 0    50   ~ 0
 GPIO10
 Text Label 4650 5250 1    50   ~ 0
