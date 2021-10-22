@@ -18,3 +18,6 @@ Also, add the following Symbol/Footprint library to KiCAD: [https://github.com/O
 ## BOM
 
 See: [https://htmlpreview.github.io/?https://github.com/Open-Smartwatch/kicad-project/blob/master/docs/bom/osw-ibom_v.html](https://htmlpreview.github.io/?https://github.com/Open-Smartwatch/kicad-project/blob/master/docs/bom/osw-ibom_v.html)
+
+## Instagram 
+https://www.instagram.com/pauls_3d_things/
