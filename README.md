@@ -2,6 +2,8 @@
 
 Repo for kicad schematic, board and gerber files. This project is in development and is not ready for release.
 
+Update 2025-06: There never was a release since the selected GPS module does not work on a wearable-sized PCB, and while worn at the same time.
+
 ## Tools
 
 To view/modify the files from this repository, install KiCAD from: [https://kicad.org](https://kicad.org)
